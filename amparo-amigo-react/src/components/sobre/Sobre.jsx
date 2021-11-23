@@ -1,6 +1,9 @@
 import React from 'react'
 
-export default () =>
+export default function Sobre (){
+   return(
     <> 
        <h1>Sobre Nós</h1>
     </>
+      );
+   }

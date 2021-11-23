@@ -1,1 +1,13 @@
-h1{color:red}
+
+  .nav-menu li:hover > a,
+  .nav-menu > .menu-active > a {
+    color: #F20530;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+  #menu{
+    justify-content:right !important;
+  }
